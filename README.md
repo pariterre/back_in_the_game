@@ -9,3 +9,5 @@ Software that assists clinicians in assessing whether a player is ready for a re
 	- https://assetstore.unity.com/packages/3d/environments/minimalist-archviz-bedroom-131093
 - Midwest Park Football (Soccer) stadium
 	- https://assetstore.unity.com/packages/3d/environments/midwest-park-football-soccer-stadium-125254
+- Hospital Medical Office Kit
+  - https://marketplace.unity.com/packages/3d/environments/hospital-medical-office-kit-165327
